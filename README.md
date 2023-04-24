@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Welcome to My Profile, Make a fire 🔥 and stay a while 👋
 
 My Name is Caleb Millard, I am a Software Developer Based in British Columbia Canada, I love making games and designing UI. I have worked on multiple mid size projects. My most recent Published project is Project B, a 2-D plaform stratagy game. My expertise is in Frontend UI/UX design and implementation aswell as Systems Development.
 
