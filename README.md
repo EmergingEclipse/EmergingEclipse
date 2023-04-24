@@ -22,7 +22,7 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 [![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v7aNAzHUSr)
 
 
-- 💬 Some of my Projects can be found on the facultys itch.io page:
+- 💬 Some of my Projects I have collaborated on can be found on my alma maters itch.io page:
 
 [![<Badge Name>](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://twugame.itch.io/)  
 
@@ -35,7 +35,7 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 I found a way to use steganography to encode and decode images in a near unhackable way with more discrete ways of transporting information and programs via imaging.
 
   
-- ✨ i specialize in:
+- ✨ I specialize in:
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
