@@ -4,7 +4,7 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 
 - 🔭 I’m currently working on a few things:
 1. Some exciting projects unfortunately covered under NDA
-2. a new Game with some of my fellow alumni and seniors from my Game and software program.
+2. A new game with some of my fellow alumni and seniors from my alma mater.
 
 - 🌱 I’m currently working on understanding more about:
 1. Encryption and cyber security
