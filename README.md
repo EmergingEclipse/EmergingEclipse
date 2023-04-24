@@ -21,13 +21,20 @@ My Name is Caleb Millard, I am a Software Developer Based in British Columbia Ca
 
 [![<Badge Name>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-millard-b51438234/)
 
-[![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/Demolisher#6028)
+[![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v7aNAzHUSr)
 
 
+- 💬 Some of my Projects can be found on the facultys itch.io page:
 
+[![<Badge Name>](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://twugame.itch.io/)  
 
+1. [Cleaning House](https://twugame.itch.io/cleaning-house)
+2. [Project B](https://twugame.itch.io/project-b)
+3. [Cheese Frenzy: a human Tale](https://emergingeclipse.itch.io/cheese-frenzy-a-human-tale)
 
+- ⚡ Fun fact:
 
+I found a way to use steganography to encode and decode images in a near unhackable way with more discrete ways of transporting information and programs via imaging.
 
 <!--
 **EmergingEclipse/EmergingEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
