@@ -36,6 +36,13 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 
 I found a way to use steganography to encode and decode images in a near unhackable way with more discrete ways of transporting information and programs via imaging.
 
+  
+- ✨ i specialize in:
+  
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <!--
 **EmergingEclipse/EmergingEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
