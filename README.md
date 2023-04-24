@@ -21,7 +21,7 @@ My Name is Caleb Millard, I am a Software Developer Based in British Columbia Ca
 
 [![<Badge Name>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-millard-b51438234/)
 
-[![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/173204737137704960)
+[![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/Demolisher#6028)
 
 
 
