@@ -17,10 +17,8 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 
 - 📫 How to reach me: 
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EmergingEclipse)  
-
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EmergingEclipse)
 [![<Badge Name>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-millard-b51438234/)
-
 [![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v7aNAzHUSr)
 
 
