@@ -47,6 +47,9 @@ I found a way to use steganography to encode and decode images in a near unhacka
   ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  
+  
+  
 <!--
 **EmergingEclipse/EmergingEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
