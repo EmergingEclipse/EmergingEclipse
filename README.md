@@ -22,7 +22,7 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 [![<Badge Name>](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v7aNAzHUSr)
 
 
-- 💬 Some of my Projects I have collaborated on can be found on my alma maters itch.io page:
+- 💬 Some of my completed projects I have collaborated on can be found on my alma maters itch.io page:
 
 [![<Badge Name>](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://twugame.itch.io/)  
 
