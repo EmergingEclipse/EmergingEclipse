@@ -1,4 +1,4 @@
-### Hello There, Welcome Traveler, Make a fire 🔥 and stay a while 👋
+### Hello there, welcome traveler, make a fire 🔥 and stay a while 👋
 
 My name is Caleb Millard, I am a Software Developer based in British Columbia, Canada. I love making games and designing UI. I have worked on multiple mid size projects. My most recent published project is Project B, a 2-D plaform stratagy game. My expertise is in frontend UI/UX design and implementation as well as systems development.
 
