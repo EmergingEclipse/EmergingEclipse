@@ -8,12 +8,13 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 
 - 🌱 I’m currently working on understanding more about:
 1. Encryption and cyber security
-2. How to properly design an anticheat system
+2. systems design
 
 - 👯 Things I might be interested in collaborating on:
 1. Games specifically 2-D, open to 3-D but less experienced
 2. Cyber security projects
 3. UI UX Design or implementation
+4. Im always learning new skills
 
 - 📫 How to reach me: 
 
