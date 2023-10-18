@@ -3,8 +3,7 @@
 My name is Caleb Millard, I am a Software Developer based in British Columbia, Canada. I love making games and designing UI. I have worked on multiple mid size projects. My most recent published project is Project B, a 2-D plaform stratagy game. My expertise is in frontend UI/UX design and implementation as well as systems development.
 
 - 🔭 I’m currently working on a few things:
-1. Some exciting projects unfortunately covered under NDA
-2. A new game with some of my fellow alumni and seniors from my alma mater.
+1. Working on my new project HunterKiller
 
 - 🌱 I’m currently working on understanding more about:
 1. Encryption and cyber security
@@ -14,7 +13,6 @@ My name is Caleb Millard, I am a Software Developer based in British Columbia, C
 1. Games specifically 2-D, open to 3-D but less experienced
 2. Cyber security projects
 3. UI UX Design or implementation
-4. Im always learning new skills
 
 - 📫 How to reach me: 
 
